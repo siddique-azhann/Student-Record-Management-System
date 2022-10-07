@@ -9,6 +9,8 @@ Student Record Management System is a software solution for tracking and managin
 * Search records
 * Delete records
 
+& all the records will be stored in student.dat file. 
+
 ##### Tools and Technologies used in the Project :-
 
 * Language - C++
